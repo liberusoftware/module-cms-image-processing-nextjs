@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-image-processing-nextjs",
+  "capabilityKey": "planned:cms:image-processing",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-image-processing-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/image-processing.md",
+  "presentationPlan": "projects/cms/nextjs/image-processing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
